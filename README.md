@@ -1,4 +1,5 @@
-# TagGame-Cpp
+# Project C++
 
 
-# Console game "Tag"
+## Console game "Tag"
+functional programming
